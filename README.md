@@ -22,3 +22,9 @@ To run all unit tests.
 ```bash
 npm run test
 ```
+
+## Documentation
+To get the Documentation
+https://player2-desafio.herokuapp.com/doc/
+or
+http://localhost:3000/doc/
