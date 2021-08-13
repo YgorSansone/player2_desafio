@@ -12,7 +12,12 @@
         {
             "url": "http://localhost:3000/",
             "description": "API rodando localmente"
+        },
+        {
+            "url": "https://player2-desafio.herokuapp.com/",
+            "description": "API rodando no heroku"
         }
+        
     ],
     "paths": {
         "/user": {
