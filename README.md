@@ -7,6 +7,7 @@ This solution includes the models for User and Company as well as all CRUD endpo
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/YgorSansone/player2_desafio" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/YgorSansone/player2_desafio" />
 </p>
+
 ## Installation
 ```bash
 npm install
