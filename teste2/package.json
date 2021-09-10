@@ -1,0 +1,16 @@
+{
+  "name": "teste2",
+  "version": "1.0.0",
+  "description": "mysql teste2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.95.11",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
